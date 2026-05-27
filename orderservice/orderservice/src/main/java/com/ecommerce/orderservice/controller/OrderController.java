@@ -14,7 +14,6 @@ import java.util.Map;
 @CrossOrigin(origins = {
     "http://localhost:5173",
     "http://localhost:5174",
-    "https://t-shopclothing.netlify.app"
     "https://tshop-clothing.netlify.app"
 })
 public class OrderController {
