@@ -14,6 +14,7 @@ import java.util.List;
     "http://localhost:5173",
     "http://localhost:5174",
     "https://t-shopclothing.netlify.app"
+    "https://tshop-clothing.netlify.app"
 })
 public class ProductController {
 
